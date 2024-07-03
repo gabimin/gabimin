@@ -1,14 +1,11 @@
-## Bienvenid@!! [I'm Gabriela](https://github.com/gabimin)
+### Bienvenid@!! [I'm Gabriela](https://github.com/gabimin)
  
-
 This repository serves as a personal portfolio for showcasing projects and skills.
 
-## About Me
+
+### About Me
 
 I'm a dedicated **Manual Tester** and passionate **Web Developer**. With a keen eye for detail and a love for solving problems, I specialize in ensuring software quality and creating engaging web experiences.
-
-
-## Contents
 
 
 ### Skills & Expertise
@@ -30,6 +27,7 @@ Feel free to reach out to discuss testing methodologies, web development trends,
 - **Contact**: gabtestco@gmail.com
 
 
-For more details, visit my [GitHub profile](https://github.com/gabimin).
+
+##### For more details, visit my [GitHub profile](https://github.com/gabimin).
 
 
