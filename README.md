@@ -1,7 +1,5 @@
 ### Bienvenid@!! [I'm Gabriela](https://github.com/gabimin)
  
-This repository serves as a personal portfolio for showcasing projects and skills.
-
 
 ### About Me
 
