@@ -1,16 +1,36 @@
-## Hi there 👋
+## Bienvenid@!! 
 
-<!--
-**gabimin/gabimin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [I'm Gabriela](https://github.com/gabimin)
 
-Here are some ideas to get you started:
+This repository serves as a personal portfolio for showcasing projects and skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a dedicated **Manual Tester** and passionate **Web Developer**. With a keen eye for detail and a love for solving problems, I specialize in ensuring software quality and creating engaging web experiences.
+
+
+## Contents
+
+
+### Skills & Expertise
+
+- **Manual Testing**: Extensive experience in identifying bugs and ensuring functionality meets requirements.
+- **Web Development**: Proficient in HTML, CSS, JavaScript, and various web development frameworks.
+- **Collaboration**: Strong team player with excellent communication skills, always eager to learn and share knowledge.
+
+
+### Projects
+
+Check out [my repositories]([http://example.com](https://github.com/gabimin?tab=repositories)) to see some of the projects I've been working on, both in testing and web development.
+
+
+### Connect with Me
+
+Feel free to reach out to discuss testing methodologies, web development trends, or potential collaborations!
+
+- **Contact**: gabtestco@gmail.com
+
+
+For more details, visit my [GitHub profile](https://github.com/gabimin).
+
+
