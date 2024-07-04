@@ -1,4 +1,4 @@
-### Bienvenid@!! [I'm Gabriela](https://github.com/gabimin)
+### Hello! [I'm Gabriela](https://github.com/gabimin)
  
 
 ### About Me
