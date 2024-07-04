@@ -15,7 +15,7 @@ I'm a dedicated **Manual Tester** and passionate **Web Developer**. With a keen 
 
 ### Projects
 
-Check out [my public repositories](https://github.com/gabimin?tab=repositories)) to see some of the projects I've been working on, both in testing and web development.
+Check out [my public repositories](https://github.com/gabimin?tab=repositories) to see some of the projects I've been working on, both in testing and web development.
 
 
 ### Connect with Me
