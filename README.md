@@ -3,14 +3,14 @@
 
 ### About Me
 
-I'm a dedicated **Manual Tester** and passionate **Web Developer**. With a keen eye for detail and a love for solving problems, I specialize in ensuring software quality and creating engaging web experiences.
+**Manual Tester** and **Web Developer**. 
 
 
-### Skills & Expertise
+### Skills 
 
-- **Manual Testing**: Extensive experience in identifying bugs and ensuring functionality meets requirements.
-- **Web Development**: Proficient in HTML, CSS, JavaScript, and various web development frameworks.
-- **Collaboration**: Strong team player with excellent communication skills, always eager to learn and share knowledge.
+- **Manual Testing**: Experience in identifying bugs and ensuring functionality meets requirements.
+- **Web Development**: HTML, CSS, JavaScript, and various web development frameworks.
+- **Collaboration**: Strong team player with communication skills, always eager to learn and share knowledge.
 
 
 ### Projects
