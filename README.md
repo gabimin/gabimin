@@ -1,9 +1,7 @@
 ### Hello! [I'm Gabriela](https://github.com/gabimin)
  
 
-### About Me
-
-**Web Developer**. 
+**Web Developer** 
 
 
 ### Skills 
