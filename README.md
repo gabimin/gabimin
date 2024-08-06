@@ -3,12 +3,11 @@
 
 ### About Me
 
-**Manual Tester** and **Web Developer**. 
+**Web Developer**. 
 
 
 ### Skills 
 
-- **Manual Testing**: Experience in identifying bugs and ensuring functionality meets requirements.
 - **Web Development**: HTML, CSS, JavaScript, and various web development frameworks.
 - **Collaboration**: Strong team player with communication skills, always eager to learn and share knowledge.
 
@@ -20,9 +19,7 @@ Check out [my public repositories](https://github.com/gabimin?tab=repositories&q
 
 ### Connect with Me
 
-Feel free to reach out to discuss testing methodologies, web development trends, or potential collaborations!
-
-- **Contact**: gabtestco@gmail.com
+Feel free to reach out to discuss web development trends, or potential collaborations!
 
 
 
