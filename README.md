@@ -17,6 +17,6 @@ Check out some of the projects I've been working on [my public repositories](htt
 
 ### Connect with Me
 
-[GitHub profile](https://github.com/gabimin).
+[GitHub profile](https://github.com/gabimin)
 
 
