@@ -12,7 +12,7 @@
 
 ### Projects
 
-Check out some of the projects I've been working on: [my public repositories](https://github.com/gabimin?tab=repositories&q=&type=public&language=&sort=)  
+Check out some of the projects I've been working on [my public repositories](https://github.com/gabimin?tab=repositories&q=&type=public&language=&sort=)  
 
 
 ### Connect with Me
