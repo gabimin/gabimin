@@ -19,4 +19,4 @@ Check out some of the projects I've been working on [my public repositories](htt
 
 [GitHub profile](https://github.com/gabimin)
 
-
+[LinkedIn profile](https://www.linkedin.com/in/gabimin/)
