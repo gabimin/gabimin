@@ -20,7 +20,7 @@ Check out some of the projects I've been working on [my public repositories](htt
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuusername&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" alt="Repos per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabimin&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" alt="Repos per Language" />
 </p>
 
 
