@@ -19,6 +19,10 @@ Check out some of the projects I've been working on [my public repositories](htt
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabimin&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tuusername&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" alt="Repos per Language" />
+</p>
+
 
 ### Connect with Me
 
