@@ -15,6 +15,11 @@
 Check out some of the projects I've been working on [my public repositories](https://github.com/gabimin?tab=repositories&q=&type=public&language=&sort=)  
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabimin&layout=compact&theme=radical" alt="Top Langs" />
+</p>
+
+
 ### Connect with Me
 
 [GitHub profile](https://github.com/gabimin)
