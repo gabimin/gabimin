@@ -15,13 +15,18 @@
 Check out some of the projects I've been working on [my public repositories](https://github.com/gabimin?tab=repositories&q=&type=public&language=&sort=)  
 
 
-<p align="center">
+
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabimin&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gabimin&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" alt="Repos per Language" />
 </p>
+
+
+
 
 
 ### Connect with Me
